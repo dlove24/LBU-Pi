@@ -1,0 +1,2 @@
+# Don't add the virtual environments to the tree
+.venv/
